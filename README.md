@@ -1,6 +1,6 @@
 # Wavefront Aberration Correction via an SPGD Approach
 
-This repository implemnts an Adaptive Gain Stochastic Parallel Gradient Descent algorithm to compensate for atmospheric turbulence and system aberrations in real-time laser systems. The algorithm is based on that described by \[1\].
+This repository implemnts an Adaptive Gain Stochastic Parallel Gradient Descent algorithm to compensate for atmospheric turbulence and system aberrations in real-time laser systems.
 
 ## Equipment
 
@@ -11,11 +11,12 @@ This repository implemnts an Adaptive Gain Stochastic Parallel Gradient Descent 
 ## Setup
 
 <img width="1080" height="833" alt="image" src="https://github.com/user-attachments/assets/75ef0a6d-4767-4ec5-bc0f-cb215eef48f5" />
+Figure 1. Showing the short range demonstrator.
 
-## Disclaimer
+## Outputs
 
-This control system has not been fully tested due to the setups lack of vibration dampening.
+<img width="1300" height="800" alt="Dashboard Display" src="https://github.com/user-attachments/assets/3d93ae28-db50-47aa-a0ed-c2726f2d1448" />
+Figure 2. Matplotlib based dashboard with no active perturbations.
 
-## Resources
-
-\[1\] J. Li et al., "A Novel SPGD Algorithm for Wavefront Sensorless Adaptive Optics System," in IEEE Photonics Journal, vol. 15, no. 4, pp. 1-9, Aug. 2023, Art no. 7801109, doi:10.1109/JPHOT.2023.3285871.
+<img width="547" height="457" alt="Terminal Output" src="https://github.com/user-attachments/assets/0d606bf2-e401-4e5c-a65a-87f7cd670695" />
+Figure 3. Terminal output showing the setup and iteration history.
