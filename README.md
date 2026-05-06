@@ -10,15 +10,22 @@ This repository implemnts an Stochastic Parallel Gradient Descent algorithm to c
 
 ## Setup
 
-<img width="1080" height="833" alt="image" src="https://github.com/user-attachments/assets/75ef0a6d-4767-4ec5-bc0f-cb215eef48f5" />
-Figure 1. Showing the short range demonstrator.
+<figure>
+  <img width="1080" height="833" alt="image" src="https://github.com/user-attachments/assets/75ef0a6d-4767-4ec5-bc0f-cb215eef48f5" />
+  <figcaption>Figure 1. Showing the short range demonstrator.
+</figure>
 
 ## Outputs
 
-<img width="1300" height="800" alt="Dashboard Display" src="https://github.com/user-attachments/assets/3d93ae28-db50-47aa-a0ed-c2726f2d1448" />
-Figure 2. Matplotlib based dashboard with no active perturbations.
+<figure>
+  <img width="1300" height="800" alt="Dashboard Display" src="https://github.com/user-attachments/assets/3d93ae28-db50-47aa-a0ed-c2726f2d1448" />
+  <figcaption>Figure 2. Matplotlib based dashboard with no active perturbations.</figcaption>
+</figure>
 
+<br>
+<br>
 
-
-<img width="547" height="457" alt="Terminal Output" src="https://github.com/user-attachments/assets/0d606bf2-e401-4e5c-a65a-87f7cd670695" />
-Figure 3. Terminal output showing the setup and iteration history.
+<figure>
+  <img width="547" height="457" alt="Terminal Output" src="https://github.com/user-attachments/assets/0d606bf2-e401-4e5c-a65a-87f7cd670695" />
+  <figcaption>Figure 3. Terminal output showing the setup and iteration history.</figcaption>
+</figure>
